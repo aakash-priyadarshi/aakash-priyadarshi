@@ -17,17 +17,7 @@
   <img src="https://img.shields.io/badge/Location-UK-ff6b6b?style=flat&logo=location" alt="Location" />
 </p>
 
-<!-- 3D Contribution Calendar -->
-<h2 align="center">🔥 My Contribution Calendar</h2>
-<div align="center">
-  
-![3D Contribution Calendar](./profile-3d-contrib/profile-green-animate.svg)
 
-</div>
-
-<div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUwMTA3NTIsIm5iZiI6MTc1NTAxMDQ1MiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEyVDE0NTQxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNiMGYxNGQ4OTNjNzI5YzNhOTk2YmUxMjFhOTM0OTdjZmUxNWI5ZTI5OGViNGU2MjE2M2ViNzJjNDdkMGM2ODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.agCx9onHIoJxWvL4a3AblYhDzDRK53m_oqBib8mn5M4" width="300"/>
-</div>
 
 ## 💫 About Me
 
@@ -107,6 +97,18 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/aakashm30)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aakashpriyadarshi)
 
+</div>
+
+<!-- 3D Contribution Calendar -->
+<h2 align="center">🔥 My Contribution Calendar</h2>
+<div align="center">
+  
+![3D Contribution Calendar](./profile-3d-contrib/profile-green-animate.svg)
+
+</div>
+
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUwMTA3NTIsIm5iZiI6MTc1NTAxMDQ1MiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEyVDE0NTQxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNiMGYxNGQ4OTNjNzI5YzNhOTk2YmUxMjFhOTM0OTdjZmUxNWI5ZTI5OGViNGU2MjE2M2ViNzJjNDdkMGM2ODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.agCx9onHIoJxWvL4a3AblYhDzDRK53m_oqBib8mn5M4" width="300"/>
 </div>
 
 ## 📊 GitHub Analytics:
