@@ -35,6 +35,14 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aakashm30"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aakashm30" /></a><a href="https://ko-fi.com/aakashpriyadarshi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aakashpriyadarshi" /></a></p><br><br>
 
+<!-- 3D Contribution Calendar -->
+<h2 align="center">🔥 My Contribution Calendar</h2>
+<div align="center">
+  
+![3D Contribution Calendar](./profile-3d-contrib/profile-green-animate.svg)
+
+</div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-priyadarshi&show_icons=true&theme=dark&locale=en&layout=compact" alt="aakash-priyadarshi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakash-priyadarshi&show_icons=true&theme=dark&locale=en" alt="aakash-priyadarshi" /></p>
