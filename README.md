@@ -10,10 +10,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash-priyadarshi&label=Profile%20views&color=0e75b6&style=flat" alt="aakash-priyadarshi" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakash-priyadarshi&theme=juicyfresh" alt="aakash-priyadarshi" /></a> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aakash-priyadarshi&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy) -->
-
 <!-- 3D Contribution Calendar -->
 <h2 align="center">🔥 My Contribution Calendar</h2>
 <div align="center">
@@ -51,73 +47,44 @@
 
 </div>
 
-## 💻 Programming Languages:
+## 💻 Tech Stack:
 
-<div align="center">
+<div align="">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Programming Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,php,kotlin,dart&perline=6" />
+</a>
 
-</div>
+### Frontend Development
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,bootstrap&perline=6" />
+</a>
 
-## 🚀 Frameworks & Libraries:
+### Backend Development
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,php&perline=4" />
+</a>
 
-<div align="center">
+### Mobile Development
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio&perline=3" />
+</a>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Databases & Cloud
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,gcp&perline=6" />
+</a>
 
-</div>
+### AI/ML & Data Science
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4" />
+</a>
 
-## 🗄️ Databases & Cloud:
-
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-</div>
-
-## 🤖 AI/ML & Data Science:
-
-<div align="center">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-</div>
-
-## 🛠️ Tools & Technologies:
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+### Tools & Technologies
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,figma,ps,ai,arduino&perline=8" />
+</a>
 
 </div>
 
@@ -135,29 +102,6 @@
 </div>
 
 ## 📊 GitHub Analytics:
-
-
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-priyadarshi&show_icons=true&theme=dark&locale=en&layout=compact" alt="aakash-priyadarshi" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakash-priyadarshi&show_icons=true&theme=dark&locale=en" alt="aakash-priyadarshi" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakash-priyadarshi&theme=dark" alt="aakash-priyadarshi" />
-</div>
-
-<div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUwMTA3NTIsIm5iZiI6MTc1NTAxMDQ1MiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEyVDE0NTQxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE4YmE4MjIwMTlmMjMzNjA0MWU3YWFjMmFjZmE1YWQ5NjgyNGQ1MTJhNDdiZmJiMWFmOTRjYTczN2Q4NzA1ZmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qvhTHcl2v3so01W0IXA4CblRwhxFLR6f0fXNYTwKwMM" width="400"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUwMTA3NTIsIm5iZiI6MTc1NTAxMDQ1MiwicGF0aCI6Ii83NDAzODE5MC8yNDk1NzA4MDMtMDIyOTM3NjgtOTI0Mi00N2UxLWJmOGYtZDA4NGJhMGEyZDFkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEyVDE0NTQxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA4ZWZjYmQzNjhlODkyZTQ2Yjk3M2ExYzFlODMwZGQ1ZjFlZGM5NmUzOTJjMWNlYTdmYjAzYjdjMWVhY2EwODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZtwTF0DFA1EBHgGdpUZ7RMt5dBRuMhUsgM0kouhbUYw" width="600"/> -->
 
 <!-- GitHub Profile Summary Cards with Custom Layout -->
 <div align="center">
