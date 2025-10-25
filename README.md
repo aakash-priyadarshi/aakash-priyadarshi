@@ -10,9 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash-priyadarshi&label=Profile%20views&color=0e75b6&style=flat" alt="aakash-priyadarshi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakash-priyadarshi&theme=juicyfresh" alt="aakash-priyadarshi" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakash-priyadarshi&theme=juicyfresh" alt="aakash-priyadarshi" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aakash-priyadarshi&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aakash-priyadarshi&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- 3D Contribution Calendar -->
 <h2 align="center">🔥 My Contribution Calendar</h2>
