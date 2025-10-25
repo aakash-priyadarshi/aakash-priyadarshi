@@ -2,13 +2,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Aakash%20Priyadarshi&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=white&desc=Software%20Developer%20%7C%20AI%20Specialist%20%7C%20Researcher&descAlign=50&descAlignY=60)
 
 <h1 align="center">Hi 👋, I'm Aakash Priyadarshi</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer from India <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/in.svg" width="30"/></h3>
 
 <div align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUwMTA3NTIsIm5iZiI6MTc1NTAxMDQ1MiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEyVDE0NTQxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNlMWQ2Yzg3OGE5ZmFiYzQ0MTFlMzQyZWRjM2M4ZmY4OWZlNDk3NTIxY2Y5MTYwOWJiNjQ5NzMxNzQwYjYyYWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qD42Kz-Scgt84pYZ_E7iAtWwRgjTcPnuAOes6HayZSY" width="400"/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash-priyadarshi&label=Profile%20views&color=0e75b6&style=flat" alt="aakash-priyadarshi" /> </p>
+<!-- Badges in one line -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aakash-priyadarshi&label=Profile%20views&color=0e75b6&style=flat" alt="aakash-priyadarshi" />
+  <img src="https://img.shields.io/badge/Years%20of%20Coding-5+-0e75b6?style=flat&logo=code" alt="Years of Coding" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=flat&logo=signal" alt="Current Status" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Neural%20Networks-orange?style=flat&logo=brain" alt="Current Focus" />
+  <img src="https://img.shields.io/badge/Location-UK-ff6b6b?style=flat&logo=location" alt="Location" />
+</p>
 
 <!-- 3D Contribution Calendar -->
 <h2 align="center">🔥 My Contribution Calendar</h2>
@@ -41,6 +48,7 @@
   
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/aakashpriyadarshi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakashpriyadarshi)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_USER_ID)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/aakashpriyadarshi)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aakash_the_wise)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aakashm301)
