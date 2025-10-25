@@ -39,7 +39,7 @@
 <h2 align="center">🔥 My Contribution Calendar</h2>
 <div align="center">
   
-![3D Contribution Calendar](./profile-3d-contrib/profile-green-animate.svg)
+![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
