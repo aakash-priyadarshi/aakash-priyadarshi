@@ -136,17 +136,9 @@
 
 ## 📊 GitHub Analytics:
 
-<div align="center">
 
-### More 3D Views Available:
-<!-- You can choose from different themes: -->
-<!-- ![3D Night View](./profile-3d-contrib/profile-night-view.svg) -->
-<!-- ![3D Season](./profile-3d-contrib/profile-season-animate.svg) -->
-<!-- ![3D Gitblock](./profile-3d-contrib/profile-gitblock.svg) -->
 
-</div>
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-priyadarshi&show_icons=true&theme=dark&locale=en&layout=compact" alt="aakash-priyadarshi" />
 </div>
 
@@ -165,8 +157,28 @@
 ---
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUwMTA3NTIsIm5iZiI6MTc1NTAxMDQ1MiwicGF0aCI6Ii83NDAzODE5MC8yNDk1NzA4MDMtMDIyOTM3NjgtOTI0Mi00N2UxLWJmOGYtZDA4NGJhMGEyZDFkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEyVDE0NTQxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA4ZWZjYmQzNjhlODkyZTQ2Yjk3M2ExYzFlODMwZGQ1ZjFlZGM5NmUzOTJjMWNlYTdmYjAzYjdjMWVhY2EwODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZtwTF0DFA1EBHgGdpUZ7RMt5dBRuMhUsgM0kouhbUYw" width="600"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUwMTA3NTIsIm5iZiI6MTc1NTAxMDQ1MiwicGF0aCI6Ii83NDAzODE5MC8yNDk1NzA4MDMtMDIyOTM3NjgtOTI0Mi00N2UxLWJmOGYtZDA4NGJhMGEyZDFkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEyVDE0NTQxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA4ZWZjYmQzNjhlODkyZTQ2Yjk3M2ExYzFlODMwZGQ1ZjFlZGM5NmUzOTJjMWNlYTdmYjAzYjdjMWVhY2EwODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZtwTF0DFA1EBHgGdpUZ7RMt5dBRuMhUsgM0kouhbUYw" width="600"/> -->
+
+<!-- GitHub Profile Summary Cards with Custom Layout -->
+<div align="center">
   
-### ⭐ Thanks for visiting my profile! ⭐
+  <!-- First card takes full width (12 columns) -->
+  <div style="width: 100%; margin-bottom: 20px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakash-priyadarshi&theme=solarized" alt="Profile Details" style="width: 100%; max-width: 900px;" />
+  </div>
+  
+  <!-- Second row: 2 cards side by side (6 columns each) -->
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px; flex-wrap: wrap;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aakash-priyadarshi&theme=solarized" alt="Repos per Language" style="width: 45%; min-width: 300px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aakash-priyadarshi&theme=solarized" alt="Most Commit Language" style="width: 45%; min-width: 300px;" />
+  </div>
+  
+  <!-- Third row: 2 cards side by side (6 columns each) -->
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px; flex-wrap: wrap;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aakash-priyadarshi&theme=solarized" alt="GitHub Stats" style="width: 45%; min-width: 300px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aakash-priyadarshi&theme=solarized&utcOffset=8" alt="Productive Time" style="width: 45%; min-width: 300px;" />
+  </div>
+  
+  ### ⭐ Thanks for visiting my profile! ⭐
   
 </div>
