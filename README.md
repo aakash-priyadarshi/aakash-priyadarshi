@@ -11,7 +11,7 @@
 <!-- Badges in one line -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aakash-priyadarshi&label=Profile%20views&color=0e75b6&style=flat" alt="aakash-priyadarshi" />
-  <img src="https://img.shields.io/badge/Years%20of%20Coding-5+-0e75b6?style=flat&logo=code" alt="Years of Coding" />
+  <img src="https://img.shields.io/badge/Years%20of%20Coding-4+-0e75b6?style=flat&logo=code" alt="Years of Coding" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=flat&logo=signal" alt="Current Status" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Neural%20Networks-orange?style=flat&logo=brain" alt="Current Focus" />
   <img src="https://img.shields.io/badge/Location-UK-ff6b6b?style=flat&logo=location" alt="Location" />
