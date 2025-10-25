@@ -1,3 +1,6 @@
+<!-- Profile Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Aakash%20Priyadarshi&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=white&desc=Software%20Developer%20%7C%20AI%20Specialist%20%7C%20Researcher&descAlign=50&descAlignY=60)
+
 <h1 align="center">Hi 👋, I'm Aakash Priyadarshi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
