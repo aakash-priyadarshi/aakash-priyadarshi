@@ -2,6 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Aakash%20Priyadarshi&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=white&desc=Software%20Developer%20%7C%20AI%20Specialist%20%7C%20Researcher&descAlign=50&descAlignY=60)
 
 <h1 align="center">Hi 👋, I'm Aakash Priyadarshi</h1>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B001&center=true&repeat=false&width=435&lines=Welcome!!++%F0%9F%99%8F%F0%9F%8F%BB" alt="Typing SVG" /></a>
+</div>
 <h3 align="center">A passionate full stack developer from India <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/in.svg" width="30"/></h3>
 
 <div align="center">
