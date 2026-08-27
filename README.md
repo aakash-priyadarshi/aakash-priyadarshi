@@ -178,7 +178,6 @@ Real-time voice ↔ text interface powered by OpenAI and Google Cloud speech API
 
 1. Create a key at https://wakatime.com/settings/api-key
 2. Add repo secrets: WAKA_TIME_API_KEY and GH_TOKEN
-3. Run the "Update WakaTime Stats" workflow
 ```
 
 <!--END_SECTION:waka-->
