@@ -3,23 +3,50 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Aakash%20Priyadarshi&fontSize=46&fontColor=fff&stroke=00d4aa&color=0:00d4aa,100:7c3aed" alt="header" />
 
+<br/><br/>
+
+<table align="center">
+<tr>
+<td align="center" valign="middle" width="300">
+
+<img src="./assets/profile-ring.svg" width="250" alt="animated profile ring" />
+
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=600&color=00D4AA&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%F0%9F%9A%80;AI+%26+RL+Researcher+%F0%9F%A7%A0;Building+safe+intelligent+systems+%E2%9C%A8" alt="Typing SVG" />
+<a href="https://aakash-priyadarshi.github.io">
+  <img src="./assets/profile.png" width="230" alt="Aakash Priyadarshi — Full-Stack Engineer & AI Researcher" />
+</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Currently+building+ViharaOS;Shipping+Gold+Shop+platform;Researching+agent+verification" alt="Currently building" />
+<img src="./assets/profile-tagline.svg" width="320" alt="CODE · BUILD · REPEAT · FOCUS MODE" />
+
+</td>
+<td align="left" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=600&color=00D4AA&center=true&vCenter=true&width=420&lines=Full-Stack+Engineer+%F0%9F%9A%80;AI+%26+RL+Researcher+%F0%9F%A7%A0;Building+safe+intelligent+systems+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=420&lines=Currently+building+ViharaOS;Shipping+Gold+Shop+platform;Researching+agent+verification" alt="Currently building" />
 
 <br/><br/>
 
 <a href="https://aakash-priyadarshi.github.io">
   <img src="https://img.shields.io/badge/🌐_Visit_my_Portfolio-aakash--priyadarshi.github.io-00d4aa?style=for-the-badge&labelColor=1a1a2e" alt="Portfolio" />
 </a>
-&nbsp;
+<br/>
 <a href="mailto:aakashm301@gmail.com">
   <img src="https://img.shields.io/badge/📬_Hire_me-aakashm301@gmail.com-7c3aed?style=for-the-badge&labelColor=1a1a2e" alt="Email" />
 </a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=800&color=00D4AA&center=true&vCenter=true&width=700&lines=Alienware+%2B+Coffee+%2B+Late-night+commits;TODO%3A+Code+%E2%86%92+Test+%E2%86%92+Optimize+%E2%86%92+Deploy" alt="dev life typing" />
 
 <br/><br/>
 
