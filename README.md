@@ -1,52 +1,25 @@
 <!-- Hero -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Aakash%20Priyadarshi&fontSize=46&fontColor=fff&stroke=00d4aa&color=0:00d4aa,100:7c3aed" alt="header" />
+<img src="./assets/hero.svg" width="100%" alt="Aakash Priyadarshi at his Alienware workstation — Full-Stack Engineer and AI / RL researcher. Animated scene with teal and purple lighting. Motif: BUILD, VERIFY, SHIP." />
+
+<br/>
+
+<img src="./assets/hero-terminal.svg" width="520" alt="Animated terminal: whoami Aakash Priyadarshi; focus AI, RL, Full Stack; build, verify, ship. Agent to verifier loop. AI has to be correct, not just confident." />
+
+<h1>Aakash Priyadarshi</h1>
+
+<strong>Full-Stack Engineer · AI / RL Researcher</strong>
 
 <br/><br/>
 
-<table align="center">
-<tr>
-<td align="center" valign="middle" width="300">
-
-<img src="./assets/profile-ring.svg" width="250" alt="animated profile ring" />
-
-<br/>
-
-<a href="https://aakash-priyadarshi.github.io">
-  <img src="./assets/profile.png" width="230" alt="Aakash Priyadarshi — Full-Stack Engineer & AI Researcher" />
-</a>
-
-<br/>
-
-<img src="./assets/profile-tagline.svg" width="320" alt="CODE · BUILD · REPEAT · FOCUS MODE" />
-
-</td>
-<td align="left" valign="middle">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=600&color=00D4AA&center=true&vCenter=true&width=420&lines=Full-Stack+Engineer+%F0%9F%9A%80;AI+%26+RL+Researcher+%F0%9F%A7%A0;Building+safe+intelligent+systems+%E2%9C%A8" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=420&lines=Currently+building+ViharaOS;Shipping+Gold+Shop+platform;Researching+agent+verification" alt="Currently building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=00D4AA&center=true&vCenter=true&width=560&lines=Building+ViharaOS;Shipping+Gold+Shop;Researching+agent+verification" alt="Currently building ViharaOS, Gold Shop, and agent verification research" />
 
 <br/><br/>
 
-<a href="https://aakash-priyadarshi.github.io">
-  <img src="https://img.shields.io/badge/🌐_Visit_my_Portfolio-aakash--priyadarshi.github.io-00d4aa?style=for-the-badge&labelColor=1a1a2e" alt="Portfolio" />
-</a>
-<br/>
-<a href="mailto:aakashm301@gmail.com">
-  <img src="https://img.shields.io/badge/📬_Hire_me-aakashm301@gmail.com-7c3aed?style=for-the-badge&labelColor=1a1a2e" alt="Email" />
-</a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=800&color=00D4AA&center=true&vCenter=true&width=700&lines=Alienware+%2B+Coffee+%2B+Late-night+commits;TODO%3A+Code+%E2%86%92+Test+%E2%86%92+Optimize+%E2%86%92+Deploy" alt="dev life typing" />
+<a href="https://aakash-priyadarshi.github.io"><img src="https://img.shields.io/badge/Portfolio-aakash--priyadarshi.github.io-00d4aa?style=for-the-badge&labelColor=1a1a2e" alt="Portfolio" /></a>
+&nbsp;
+<a href="mailto:aakashm301@gmail.com"><img src="https://img.shields.io/badge/Hire_me-aakashm301@gmail.com-7c3aed?style=for-the-badge&labelColor=1a1a2e" alt="Email" /></a>
 
 <br/><br/>
 
@@ -56,7 +29,7 @@
 
 </div>
 
-<img src="./assets/animated-wave.svg" alt="animated wave divider" width="100%" />
+<img src="./assets/animated-wave.svg" alt="" width="100%" />
 
 ---
 
@@ -100,8 +73,6 @@ I build full-stack products and research systems where **AI has to be correct, n
 </td>
 </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&text=Featured%20Work&fontSize=28&fontColor=fff&color=0:00d4aa,100:7c3aed&animation=twinkling" alt="featured work divider" width="100%" />
 
 ## Featured work
 
@@ -174,10 +145,6 @@ Real-time voice ↔ text interface powered by OpenAI and Google Cloud speech API
   <a href="https://aakash-priyadarshi.github.io"><b>→ Full portfolio site</b></a>
 </p>
 
-<img src="./assets/animated-wave.svg" alt="animated wave divider" width="100%" />
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&text=Latest%20Writing&fontSize=28&fontColor=fff&color=0:7c3aed,100:00d4aa&animation=scaleIn" alt="blog divider" width="100%" />
-
 ## Latest writing
 
 <!-- BLOG-POSTS:START -->
@@ -192,10 +159,6 @@ Real-time voice ↔ text interface powered by OpenAI and Google Cloud speech API
 
 <!-- BLOG-POSTS:END -->
 
-<img src="./assets/animated-wave.svg" alt="animated wave divider" width="100%" />
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&text=Coding%20Activity&fontSize=28&fontColor=fff&color=0:00d4aa,100:7c3aed&animation=fadeIn" alt="wakatime divider" width="100%" />
-
 ## This week in code
 
 <!--START_SECTION:waka-->
@@ -209,21 +172,13 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/wakatime?username=aakash-priyadarshi&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8&custom_title=WakaTime%20(all%20time)" alt="WakaTime stats" width="96%" />
+  <img src="https://github-readme-stats.shion.dev/api/wakatime?username=64ff96e5-2952-481b-ac7f-12a38a9d9da2&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8&custom_title=WakaTime%20(all%20time)" alt="WakaTime stats" width="96%" />
 </p>
-
-<img src="./assets/animated-wave.svg" alt="animated wave divider" width="100%" />
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&text=Tech%20Stack&fontSize=28&fontColor=fff&color=0:7c3aed,100:00d4aa&animation=blinking" alt="tech divider" width="100%" />
 
 ## Tech I reach for
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,nodejs,fastapi,pytorch,tensorflow,docker,postgres,mongodb,aws&perline=6" alt="tech stack" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=5000&pause=500&color=00D4AA&center=true&vCenter=true&width=700&lines=TypeScript+%C2%B7+Python+%C2%B7+React%2FNext.js;PyTorch+%C2%B7+FastAPI+%C2%B7+Docker;PostgreSQL+%C2%B7+MongoDB+%C2%B7+AWS" alt="tech marquee" />
+  <img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,nodejs,fastapi,pytorch,tensorflow,docker,postgres,mongodb,aws&perline=6" alt="TypeScript, Python, React, Next.js, Node.js, FastAPI, PyTorch, TensorFlow, Docker, PostgreSQL, MongoDB, AWS" />
 </p>
 
 ---
@@ -238,8 +193,6 @@ No activity tracked
   <a href="https://www.hackerrank.com/aakashm301"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
   <a href="https://aakash-priyadarshi.github.io"><img src="https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&text=GitHub%20Analytics&fontSize=28&fontColor=fff&color=0:00d4aa,100:7c3aed&animation=scaleIn" alt="analytics divider" width="100%" />
 
 ## GitHub activity
 
@@ -263,8 +216,6 @@ No activity tracked
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&text=3D%20Contribution%20Garden&fontSize=28&fontColor=fff&color=0:7c3aed,100:00d4aa&animation=twinkling" alt="3d contrib divider" width="100%" />
-
 ### 3D contribution calendar
 
 <div align="center">
@@ -272,8 +223,6 @@ No activity tracked
 ![3D Contribution Calendar](./profile-3d-contrib/profile-green-animate.svg)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&text=Contribution%20Snake&fontSize=28&fontColor=fff&color=0:00d4aa,100:7c3aed&animation=fadeIn" alt="snake divider" width="100%" />
 
 ### Contribution snake
 
@@ -287,9 +236,7 @@ No activity tracked
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=fff&animation=twinkling" alt="footer" />
-
-**Let's build something ambitious together.**
+**Let's build, verify, and ship something ambitious.**
 
 <br/>
 
