@@ -2,7 +2,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./assets/hero.svg" width="680" alt="Aakash Priyadarshi at his Alienware workstation — Full-Stack Engineer and AI / RL researcher. Animated scene with teal and purple lighting. Motif: BUILD, VERIFY, SHIP." />
+  <img src="./assets/hero.svg" width="100%" alt="Aakash Priyadarshi at his Alienware workstation — Full-Stack Engineer and AI / RL researcher. Animated scene with teal and purple lighting. Motif: BUILD, VERIFY, SHIP." />
 </p>
 
 <img src="./assets/hero-terminal.svg" width="520" alt="Animated terminal: whoami Aakash Priyadarshi; focus AI, RL, Full Stack; build, verify, ship. Agent to verifier loop. AI has to be correct, not just confident." />

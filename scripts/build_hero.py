@@ -15,14 +15,12 @@ SRC = ASSETS / "profile.png"
 
 def prepare_portrait() -> tuple[str, int, int]:
     im = Image.open(SRC).convert("RGB")
-    w, h = im.size
-    crop = im.crop((0, 8, w, h - 28))
-    width = 720
-    height = int(width * crop.height / crop.width)
-    resized = crop.resize((width, height), Image.Resampling.LANCZOS)
+    width = 1400 if im.width >= im.height else 720
+    height = max(1, int(width * im.height / im.width))
+    resized = im.resize((width, height), Image.Resampling.LANCZOS)
     resized = resized.filter(ImageFilter.UnsharpMask(radius=0.55, percent=70, threshold=2))
     buf = io.BytesIO()
-    resized.save(buf, format="JPEG", quality=80, optimize=True, progressive=True)
+    resized.save(buf, format="JPEG", quality=82, optimize=True, progressive=True)
     return base64.b64encode(buf.getvalue()).decode("ascii"), width, height
 
 
@@ -62,9 +60,9 @@ def hero_svg(b64: str, w: int, h: int) -> str:
         72% {{ opacity: 0.7; }}
       }}
       @keyframes scan {{
-        0% {{ transform: translateY(-8px); opacity: 0; }}
+        0% {{ transform: translateY(-6px); opacity: 0; }}
         10% {{ opacity: 0.28; }}
-        100% {{ transform: translateY(86px); opacity: 0; }}
+        100% {{ transform: translateY(48px); opacity: 0; }}
       }}
       @keyframes frame {{
         0% {{ stroke-dashoffset: 0; }}
@@ -83,8 +81,8 @@ def hero_svg(b64: str, w: int, h: int) -> str:
     </linearGradient>
     <linearGradient id="bottom" x1="0.5" y1="0" x2="0.5" y2="1">
       <stop offset="0%" stop-color="#1A1A2E" stop-opacity="0"/>
-      <stop offset="55%" stop-color="#1A1A2E" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#1A1A2E" stop-opacity="0.78"/>
+      <stop offset="70%" stop-color="#1A1A2E" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#1A1A2E" stop-opacity="0.28"/>
     </linearGradient>
     <clipPath id="shot">
       <rect x="8" y="8" width="{w - 16}" height="{h - 16}" rx="20"/>
@@ -95,7 +93,7 @@ def hero_svg(b64: str, w: int, h: int) -> str:
     <filter id="blur16" x="-40%" y="-40%" width="180%" height="180%">
       <feGaussianBlur stdDeviation="16"/>
     </filter>
-    <path id="flow" fill="none" d="M 410 640 C 500 580, 560 500, 600 390"/>
+    <path id="flow" fill="none" d="M {w * 0.48:.1f} {h * 0.70:.1f} C {w * 0.58:.1f} {h * 0.58:.1f}, {w * 0.66:.1f} {h * 0.48:.1f}, {w * 0.74:.1f} {h * 0.38:.1f}"/>
   </defs>
 
   <rect width="{w}" height="{h}" rx="24" fill="#1A1A2E"/>
@@ -107,20 +105,20 @@ def hero_svg(b64: str, w: int, h: int) -> str:
       <image href="data:image/jpeg;base64,{b64}" x="8" y="8" width="{w - 16}" height="{h - 16}" preserveAspectRatio="xMidYMid slice"/>
     </g>
 
-    <!-- Ambient lighting: laptop, desk, monitor. Face stays clear. -->
-    <ellipse class="aw" cx="360" cy="638" rx="78" ry="28" fill="#00D4AA" filter="url(#blur8)"/>
-    <ellipse class="teal" cx="358" cy="710" rx="200" ry="70" fill="#00D4AA" filter="url(#blur16)"/>
-    <ellipse class="purple" cx="598" cy="330" rx="130" ry="110" fill="#7C3AED" filter="url(#blur16)"/>
+    <!-- Ambient lighting: laptop, desk, right monitors. Face stays clear. -->
+    <ellipse class="aw" cx="{w * 0.48:.1f}" cy="{h * 0.68:.1f}" rx="{w * 0.07:.1f}" ry="{h * 0.08:.1f}" fill="#00D4AA" filter="url(#blur8)"/>
+    <ellipse class="teal" cx="{w * 0.48:.1f}" cy="{h * 0.82:.1f}" rx="{w * 0.16:.1f}" ry="{h * 0.16:.1f}" fill="#00D4AA" filter="url(#blur16)"/>
+    <ellipse class="purple" cx="{w * 0.78:.1f}" cy="{h * 0.40:.1f}" rx="{w * 0.12:.1f}" ry="{h * 0.28:.1f}" fill="#7C3AED" filter="url(#blur16)"/>
 
     <!-- Monitor scan — no fake Matrix rain -->
-    <g transform="translate(548, 268)">
-      <rect class="scan" x="8" y="0" width="108" height="6" rx="2" fill="#00D4AA"/>
+    <g transform="translate({w * 0.68:.1f}, {h * 0.28:.1f})">
+      <rect class="scan" x="8" y="0" width="{max(72, w * 0.08):.1f}" height="5" rx="2" fill="#00D4AA"/>
     </g>
 
     <rect x="8" y="8" width="{w - 16}" height="{h - 16}" fill="url(#bottom)"/>
 
     <!-- Coffee steam -->
-    <g transform="translate(96, 700)" fill="none" stroke="#FFFFFF" stroke-width="1.35" stroke-linecap="round">
+    <g transform="translate({w * 0.37:.1f}, {h * 0.70:.1f})" fill="none" stroke="#FFFFFF" stroke-width="1.35" stroke-linecap="round">
       <path d="M0 22 C -5 10, 4 8, 0 -8" opacity="0.0">
         <animate attributeName="opacity" values="0;0.45;0" dur="4.2s" repeatCount="indefinite"/>
         <animateTransform attributeName="transform" type="translate" values="0 0; -1 -26" dur="4.2s" repeatCount="indefinite"/>
@@ -275,7 +273,8 @@ def main() -> None:
     hero = ASSETS / "hero.svg"
     terminal = ASSETS / "hero-terminal.svg"
     hero.write_text(hero_svg(b64, w, h), encoding="utf-8")
-    terminal.write_text(terminal_svg(), encoding="utf-8")
+    if not terminal.exists():
+        terminal.write_text(terminal_svg(), encoding="utf-8")
     print(f"hero.svg        {hero.stat().st_size / 1024:6.1f} KB  {w}x{h}")
     print(f"hero-terminal.svg {terminal.stat().st_size / 1024:6.1f} KB")
 
