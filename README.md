@@ -181,7 +181,9 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=aakash-priyadarshi&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8&custom_title=WakaTime%20(all%20time)" alt="WakaTime stats" width="96%" />
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/wakatime?username=aakash-priyadarshi&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8&custom_title=WakaTime%20(all%20time)" alt="WakaTime stats" width="96%" />
+</p>
 
 <img src="./assets/animated-wave.svg" alt="animated wave divider" width="100%" />
 
@@ -216,21 +218,21 @@ No activity tracked
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aakash-priyadarshi&theme=discord&column=7&margin-w=10&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://streak-stats.demolab.com/?user=aakash-priyadarshi&theme=tokyonight&hide_border=true&border_radius=10&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" alt="streak stats" width="48%" />
+<img src="https://github-readme-stats.shion.dev/api?username=aakash-priyadarshi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="github stats" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aakash-priyadarshi&theme=tokyonight&hide_border=true&border_radius=10&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" alt="streak stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=aakash-priyadarshi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="github stats" width="48%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aakash-priyadarshi&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8" alt="top languages" width="48%" />
+<img src="https://github-readme-stats.shion.dev/api/pin/?username=aakash-priyadarshi&repo=skyguard-ai-build-week-submission&theme=tokyonight&hide_border=true&border_radius=10" alt="pinned skyguard" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakash-priyadarshi&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8" alt="top languages" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aakash-priyadarshi&repo=skyguard-ai-build-week-submission&theme=tokyonight&hide_border=true&border_radius=10" alt="pinned skyguard" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakash-priyadarshi&theme=tokyonight" alt="profile details" width="96%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aakash-priyadarshi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&line=00d4aa&color=7c3aed&point=FFFFFF" alt="activity graph" width="96%" />
+<img src="https://ghchart.rshah.org/aakash-priyadarshi" alt="contribution chart" width="96%" />
 
 </div>
 
