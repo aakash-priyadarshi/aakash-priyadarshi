@@ -25,11 +25,9 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=aakash-priyadarshi&label=visitors&color=00d4aa&style=for-the-badge)](https://github.com/aakash-priyadarshi)
 [![Status](https://img.shields.io/badge/Open%20to%20collaboration-00d4aa?style=for-the-badge&logo=handshake&logoColor=white)](mailto:aakashm301@gmail.com)
-[![Location](https://img.shields.io/badge/Liverpool%2C%20UK-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Liverpool)
+[![Location](https://img.shields.io/badge/London%2C%20UK-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/London)
 
 </div>
-
-<img src="./assets/animated-wave.svg" alt="" width="100%" />
 
 ---
 
@@ -38,7 +36,7 @@
 ```yaml
 name: Aakash Priyadarshi
 role: Full-Stack Engineer · AI / RL Researcher
-location: Liverpool, UK
+location: London, UK
 portfolio: https://aakash-priyadarshi.github.io
 focus:
   - Safety-aware AI evaluation & policy gates
@@ -145,19 +143,52 @@ Real-time voice ↔ text interface powered by OpenAI and Google Cloud speech API
   <a href="https://aakash-priyadarshi.github.io"><b>→ Full portfolio site</b></a>
 </p>
 
-## Latest writing
+## Tech I reach for
 
-<!-- BLOG-POSTS:START -->
+### Frontend
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,redux&perline=8" alt="TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind CSS, Redux" />
+</p>
 
-[![Read on Dev.to](https://img.shields.io/badge/Latest%20articles%20on%20Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/aakashpriyadarshi)
+### Backend
 
-<sub>✨ New posts sync here automatically every day</sub>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,py,fastapi&perline=5" alt="Node.js, NestJS, Express, Python, FastAPI" />
+</p>
 
-</div>
+`REST APIs` `WebSockets` `gRPC`
 
-<!-- BLOG-POSTS:END -->
+### AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2" alt="PyTorch, TensorFlow" />
+</p>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Qwen-6A11CB?style=flat-square" alt="Qwen" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
+<img src="https://img.shields.io/badge/RAG-00D4AA?style=flat-square&labelColor=1A1A2E" alt="RAG" />
+<img src="https://img.shields.io/badge/Vector%20DBs-7C3AED?style=flat-square&labelColor=1A1A2E" alt="Vector databases" />
+
+### Databases / Storage
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&perline=4" alt="PostgreSQL, MongoDB, Redis, Prisma" />
+</p>
+
+<img src="https://img.shields.io/badge/Qdrant-FFCC00?style=flat-square&logoColor=black" alt="Qdrant" />
+<img src="https://img.shields.io/badge/Valkey-DC382C?style=flat-square&logo=redis&logoColor=white" alt="Valkey" />
+
+### Cloud / DevOps / Infra
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions,vercel,cloudflare&perline=7" alt="AWS, GCP, Azure, Docker, GitHub Actions, Vercel, Cloudflare" />
+</p>
+
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
 
 ## This week in code
 
@@ -173,25 +204,6 @@ No activity tracked
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/wakatime?username=64ff96e5-2952-481b-ac7f-12a38a9d9da2&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8&custom_title=WakaTime%20(all%20time)" alt="WakaTime stats" width="96%" />
-</p>
-
-## Tech I reach for
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,nodejs,fastapi,pytorch,tensorflow,docker,postgres,mongodb,aws&perline=6" alt="TypeScript, Python, React, Next.js, Node.js, FastAPI, PyTorch, TensorFlow, Docker, PostgreSQL, MongoDB, AWS" />
-</p>
-
----
-
-## Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/aakash-priyadarshi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://scholar.google.com/citations?user=rJUfOxgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-  <a href="https://dev.to/aakashpriyadarshi"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
-  <a href="https://kaggle.com/aakash-priyadarshi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://www.hackerrank.com/aakashm301"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
-  <a href="https://aakash-priyadarshi.github.io"><img src="https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
 </p>
 
 ## GitHub activity
@@ -231,6 +243,18 @@ No activity tracked
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="./assets/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/aakashpriyadarshi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://scholar.google.com/citations?user=rJUfOxgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://kaggle.com/aakash-priyadarshi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://www.hackerrank.com/aakashm301"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="https://aakash-priyadarshi.github.io"><img src="https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+</p>
 
 ---
 

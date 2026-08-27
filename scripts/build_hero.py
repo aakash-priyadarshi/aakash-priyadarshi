@@ -30,43 +30,21 @@ def hero_svg(b64: str, w: int, h: int) -> str:
   <desc id="desc">Portrait of Aakash, a full-stack and AI / RL engineer, at a late-night workstation. Teal Alienware lighting, a live monitor, and a focused desk setup. Motif: BUILD, VERIFY, SHIP.</desc>
   <defs>
     <style>
-      .art {{ animation: parallax 10s ease-in-out infinite; }}
-      .teal {{ opacity: 0.2; animation: teal 10s ease-in-out infinite; }}
-      .purple {{ opacity: 0.14; animation: purple 10s ease-in-out infinite; }}
-      .aw {{ opacity: 0.28; animation: aw 10s ease-in-out infinite; }}
-      .scan {{ animation: scan 3.8s linear infinite; }}
-      .frame {{ animation: frame 10s linear infinite; }}
+      .teal {{ opacity: 0.16; animation: teal 10s ease-in-out infinite; }}
+      .purple {{ opacity: 0.12; animation: purple 10s ease-in-out infinite; }}
+      .aw {{ opacity: 0.22; animation: aw 10s ease-in-out infinite; }}
 
-      @keyframes parallax {{
-        0%, 100% {{ transform: translate(0, 0); }}
-        50% {{ transform: translate(0, -2.5px); }}
-      }}
       @keyframes teal {{
-        0%, 100% {{ opacity: 0.12; }}
-        16% {{ opacity: 0.42; }}
-        52% {{ opacity: 0.18; }}
-        74% {{ opacity: 0.36; }}
+        0%, 100% {{ opacity: 0.10; }}
+        50% {{ opacity: 0.26; }}
       }}
       @keyframes purple {{
         0%, 100% {{ opacity: 0.08; }}
-        30% {{ opacity: 0.16; }}
-        64% {{ opacity: 0.38; }}
-        86% {{ opacity: 0.14; }}
+        50% {{ opacity: 0.22; }}
       }}
       @keyframes aw {{
-        0%, 100% {{ opacity: 0.2; }}
-        14% {{ opacity: 0.62; }}
-        48% {{ opacity: 0.28; }}
-        72% {{ opacity: 0.7; }}
-      }}
-      @keyframes scan {{
-        0% {{ transform: translateY(-6px); opacity: 0; }}
-        10% {{ opacity: 0.28; }}
-        100% {{ transform: translateY(48px); opacity: 0; }}
-      }}
-      @keyframes frame {{
-        0% {{ stroke-dashoffset: 0; }}
-        100% {{ stroke-dashoffset: 80; }}
+        0%, 100% {{ opacity: 0.16; }}
+        50% {{ opacity: 0.38; }}
       }}
 
       @media (prefers-reduced-motion: reduce) {{
@@ -79,11 +57,6 @@ def hero_svg(b64: str, w: int, h: int) -> str:
       <stop offset="50%" stop-color="#7C3AED"/>
       <stop offset="100%" stop-color="#00D4AA"/>
     </linearGradient>
-    <linearGradient id="bottom" x1="0.5" y1="0" x2="0.5" y2="1">
-      <stop offset="0%" stop-color="#1A1A2E" stop-opacity="0"/>
-      <stop offset="70%" stop-color="#1A1A2E" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#1A1A2E" stop-opacity="0.28"/>
-    </linearGradient>
     <clipPath id="shot">
       <rect x="8" y="8" width="{w - 16}" height="{h - 16}" rx="20"/>
     </clipPath>
@@ -93,65 +66,18 @@ def hero_svg(b64: str, w: int, h: int) -> str:
     <filter id="blur16" x="-40%" y="-40%" width="180%" height="180%">
       <feGaussianBlur stdDeviation="16"/>
     </filter>
-    <path id="flow" fill="none" d="M {w * 0.48:.1f} {h * 0.70:.1f} C {w * 0.58:.1f} {h * 0.58:.1f}, {w * 0.66:.1f} {h * 0.48:.1f}, {w * 0.74:.1f} {h * 0.38:.1f}"/>
   </defs>
 
   <rect width="{w}" height="{h}" rx="24" fill="#1A1A2E"/>
-  <rect x="2" y="2" width="{w - 4}" height="{h - 4}" rx="22" fill="none" stroke="url(#border)" stroke-width="2.2" opacity="0.9"/>
-  <rect x="6" y="6" width="{w - 12}" height="{h - 12}" rx="20" fill="none" stroke="#00D4AA" stroke-width="1.1" stroke-dasharray="5 9" opacity="0.35" class="frame"/>
+  <rect x="2" y="2" width="{w - 4}" height="{h - 4}" rx="22" fill="none" stroke="url(#border)" stroke-width="2" opacity="0.85"/>
 
   <g clip-path="url(#shot)">
-    <g class="art">
-      <image href="data:image/jpeg;base64,{b64}" x="8" y="8" width="{w - 16}" height="{h - 16}" preserveAspectRatio="xMidYMid slice"/>
-    </g>
+    <image href="data:image/jpeg;base64,{b64}" x="8" y="8" width="{w - 16}" height="{h - 16}" preserveAspectRatio="xMidYMid slice"/>
 
-    <!-- Ambient lighting: laptop, desk, right monitors. Face stays clear. -->
-    <ellipse class="aw" cx="{w * 0.48:.1f}" cy="{h * 0.68:.1f}" rx="{w * 0.07:.1f}" ry="{h * 0.08:.1f}" fill="#00D4AA" filter="url(#blur8)"/>
-    <ellipse class="teal" cx="{w * 0.48:.1f}" cy="{h * 0.82:.1f}" rx="{w * 0.16:.1f}" ry="{h * 0.16:.1f}" fill="#00D4AA" filter="url(#blur16)"/>
-    <ellipse class="purple" cx="{w * 0.78:.1f}" cy="{h * 0.40:.1f}" rx="{w * 0.12:.1f}" ry="{h * 0.28:.1f}" fill="#7C3AED" filter="url(#blur16)"/>
-
-    <!-- Monitor scan — no fake Matrix rain -->
-    <g transform="translate({w * 0.68:.1f}, {h * 0.28:.1f})">
-      <rect class="scan" x="8" y="0" width="{max(72, w * 0.08):.1f}" height="5" rx="2" fill="#00D4AA"/>
-    </g>
-
-    <rect x="8" y="8" width="{w - 16}" height="{h - 16}" fill="url(#bottom)"/>
-
-    <!-- Coffee steam -->
-    <g transform="translate({w * 0.37:.1f}, {h * 0.70:.1f})" fill="none" stroke="#FFFFFF" stroke-width="1.35" stroke-linecap="round">
-      <path d="M0 22 C -5 10, 4 8, 0 -8" opacity="0.0">
-        <animate attributeName="opacity" values="0;0.45;0" dur="4.2s" repeatCount="indefinite"/>
-        <animateTransform attributeName="transform" type="translate" values="0 0; -1 -26" dur="4.2s" repeatCount="indefinite"/>
-      </path>
-      <path d="M9 22 C 3 12, 13 7, 8 -10" opacity="0.0">
-        <animate attributeName="opacity" values="0;0.35;0" dur="4.8s" begin="0.8s" repeatCount="indefinite"/>
-        <animateTransform attributeName="transform" type="translate" values="0 0; 1 -28" dur="4.8s" begin="0.8s" repeatCount="indefinite"/>
-      </path>
-      <path d="M18 22 C 14 11, 22 8, 17 -6" opacity="0.0">
-        <animate attributeName="opacity" values="0;0.3;0" dur="5.1s" begin="1.5s" repeatCount="indefinite"/>
-        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -24" dur="5.1s" begin="1.5s" repeatCount="indefinite"/>
-      </path>
-    </g>
-
-    <!-- Sparse data particles: laptop → monitor -->
-    <circle r="2.3" fill="#00D4AA">
-      <animateMotion dur="10s" repeatCount="indefinite" rotate="auto">
-        <mpath href="#flow"/>
-      </animateMotion>
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.82;1" dur="10s" repeatCount="indefinite"/>
-    </circle>
-    <circle r="1.9" fill="#7C3AED">
-      <animateMotion dur="10s" begin="2.6s" repeatCount="indefinite">
-        <mpath href="#flow"/>
-      </animateMotion>
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.82;1" dur="10s" begin="2.6s" repeatCount="indefinite"/>
-    </circle>
-    <circle r="1.6" fill="#FFFFFF">
-      <animateMotion dur="10s" begin="5.4s" repeatCount="indefinite">
-        <mpath href="#flow"/>
-      </animateMotion>
-      <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.08;0.82;1" dur="10s" begin="5.4s" repeatCount="indefinite"/>
-    </circle>
+    <!-- Lighting only — no floating particles, scanlines, or steam over the scene. -->
+    <ellipse class="aw" cx="{w * 0.48:.1f}" cy="{h * 0.68:.1f}" rx="{w * 0.06:.1f}" ry="{h * 0.07:.1f}" fill="#00D4AA" filter="url(#blur8)"/>
+    <ellipse class="teal" cx="{w * 0.48:.1f}" cy="{h * 0.84:.1f}" rx="{w * 0.14:.1f}" ry="{h * 0.12:.1f}" fill="#00D4AA" filter="url(#blur16)"/>
+    <ellipse class="purple" cx="{w * 0.78:.1f}" cy="{h * 0.40:.1f}" rx="{w * 0.10:.1f}" ry="{h * 0.22:.1f}" fill="#7C3AED" filter="url(#blur16)"/>
   </g>
 </svg>
 '''
