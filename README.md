@@ -173,11 +173,10 @@ Real-time voice ↔ text interface powered by OpenAI and Google Cloud speech API
 
 <!--START_SECTION:waka-->
 
-```text
-⌛  Connect WakaTime to unlock live coding stats here.
+```txt
+From: 19 August 2026 - To: 26 August 2026
 
-1. Create a key at https://wakatime.com/settings/api-key
-2. Add repo secrets: WAKA_TIME_API_KEY and GH_TOKEN
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
