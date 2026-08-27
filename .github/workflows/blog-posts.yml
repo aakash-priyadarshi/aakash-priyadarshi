@@ -1,0 +1,88 @@
+name: Update Dev.to Blog Posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Fetch Dev.to articles and patch README
+        run: |
+          python3 << 'PYEOF'
+          import json
+          import re
+          import urllib.request
+
+          USERNAME = "aakashpriyadarshi"
+          START = "<!-- BLOG-POSTS:START -->"
+          END = "<!-- BLOG-POSTS:END -->"
+
+          def fetch_articles():
+              url = f"https://dev.to/api/articles?username={USERNAME}&per_page=5"
+              req = urllib.request.Request(url, headers={"User-Agent": "github-actions"})
+              try:
+                  with urllib.request.urlopen(req, timeout=20) as response:
+                      return json.loads(response.read().decode())
+              except Exception:
+                  return []
+
+          articles = fetch_articles()
+          lines = [START, "", "<div align=\"center\">", ""]
+
+          if articles:
+              for article in articles:
+                  title = article.get("title", "Untitled")
+                  link = article.get("url", f"https://dev.to/{USERNAME}")
+                  reactions = article.get("public_reactions_count", 0)
+                  comments = article.get("comments_count", 0)
+                  reading = article.get("reading_time_minutes", 0)
+                  tag = article.get("tag_list", ["dev"])[0] if article.get("tag_list") else "dev"
+                  safe_title = title.replace("|", "/")
+                  lines.append(
+                      f"[![{safe_title}](https://img.shields.io/badge/"
+                      f"{tag}-{safe_title.replace(' ', '%20')[:48]}-00d4aa?style=for-the-badge&logo=devdotto&logoColor=white)]"
+                      f"({link})  "
+                  )
+                  lines.append(f"<sub>👍 {reactions} · 💬 {comments} · ⏱ {reading} min</sub>")
+                  lines.append("")
+          else:
+              lines.extend([
+                  "[![Read on Dev.to](https://img.shields.io/badge/"
+                  "Latest%20articles%20on%20Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)]"
+                  f"(https://dev.to/{USERNAME})",
+                  "",
+                  "<sub>✨ New posts sync here automatically every day</sub>",
+                  "",
+              ])
+
+          lines.extend(["</div>", "", END])
+          block = "\n".join(lines)
+
+          with open("README.md", encoding="utf-8") as handle:
+              readme = handle.read()
+
+          pattern = re.compile(re.escape(START) + r".*?" + re.escape(END), re.DOTALL)
+          if not pattern.search(readme):
+              raise SystemExit("BLOG-POSTS markers not found in README.md")
+
+          readme = pattern.sub(block, readme)
+          with open("README.md", "w", encoding="utf-8") as handle:
+              handle.write(readme)
+          PYEOF
+
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          if git commit -m "docs: sync Dev.to blog posts"; then
+            git push
+          fi

@@ -1,0 +1,35 @@
+# Requires repository secrets:
+#   WAKA_TIME_API_KEY  -> https://wakatime.com/settings/api-key
+#   GH_TOKEN           -> fine-grained PAT with Contents read/write on this repo
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-wakatime:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Update README with WakaTime stats
+        uses: athul/waka-readme@master
+        with:
+          WAKA_TIME_API_KEY: ${{ secrets.WAKA_TIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TITLE: "true"
+          SHOW_TIME: "true"
+          SHOW_LANGUAGE: "true"
+          SHOW_OS: "false"
+          SHOW_PROJECTS: "true"
+          SHOW_EDITORS: "true"
+          SHOW_SHORT_INFO: "true"
+          SHOW_DAYS: "true"
+          BLOCKS: "→"
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 8

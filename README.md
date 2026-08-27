@@ -1,142 +1,271 @@
-<!-- Profile Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Aakash%20Priyadarshi&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=white&desc=Software%20Developer%20%7C%20AI%20Specialist%20%7C%20Researcher&descAlign=50&descAlignY=60)
-
-<h1 align="center">Hi 👋, I'm Aakash Priyadarshi</h1>
-
+<!-- Hero -->
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B001&center=true&repeat=true&width=435&lines=Welcome!!++%F0%9F%99%8F%F0%9F%8F%BB" alt="Typing SVG" /></a>
-</div>
-<h3 align="center">A passionate full stack developer from India <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/in.svg" width="30"/></h3>
 
-<div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUwMTA3NTIsIm5iZiI6MTc1NTAxMDQ1MiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEyVDE0NTQxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNlMWQ2Yzg3OGE5ZmFiYzQ0MTFlMzQyZWRjM2M4ZmY4OWZlNDk3NTIxY2Y5MTYwOWJiNjQ5NzMxNzQwYjYyYWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qD42Kz-Scgt84pYZ_E7iAtWwRgjTcPnuAOes6HayZSY" width="400"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Aakash%20Priyadarshi&fontSize=46&fontColor=fff&stroke=00d4aa&color=0:00d4aa,100:7c3aed" alt="header" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=600&color=00D4AA&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%F0%9F%9A%80;AI+%26+RL+Researcher+%F0%9F%A7%A0;Building+safe+intelligent+systems+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Currently+building+ViharaOS;Shipping+Gold+Shop+platform;Researching+agent+verification" alt="Currently building" />
+
+<br/><br/>
+
+<a href="https://aakash-priyadarshi.github.io">
+  <img src="https://img.shields.io/badge/🌐_Visit_my_Portfolio-aakash--priyadarshi.github.io-00d4aa?style=for-the-badge&labelColor=1a1a2e" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="mailto:aakashm301@gmail.com">
+  <img src="https://img.shields.io/badge/📬_Hire_me-aakashm301@gmail.com-7c3aed?style=for-the-badge&labelColor=1a1a2e" alt="Email" />
+</a>
+
+<br/><br/>
+
+[![Profile views](https://komarev.com/ghpvc/?username=aakash-priyadarshi&label=visitors&color=00d4aa&style=for-the-badge)](https://github.com/aakash-priyadarshi)
+[![Status](https://img.shields.io/badge/Open%20to%20collaboration-00d4aa?style=for-the-badge&logo=handshake&logoColor=white)](mailto:aakashm301@gmail.com)
+[![Location](https://img.shields.io/badge/Liverpool%2C%20UK-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Liverpool)
+
 </div>
 
-<!-- Badges in one line -->
+<img src="./assets/animated-wave.svg" alt="animated wave divider" width="100%" />
+
+---
+
+## About
+
+```yaml
+name: Aakash Priyadarshi
+role: Full-Stack Engineer · AI / RL Researcher
+location: Liverpool, UK
+portfolio: https://aakash-priyadarshi.github.io
+focus:
+  - Safety-aware AI evaluation & policy gates
+  - Long-horizon RL environments for coding agents
+  - Production web apps (TypeScript, Python, MERN)
+currently_building:
+  - ViharaOS
+  - Gold Shop platform
+  - Frontier agent verification research
+ask_me_about: MERN, PyTorch, offline RL, FastAPI, agentic systems
+reach_me: aakashm301@gmail.com
+```
+
+<table>
+<tr>
+<td width="50%">
+
+**What I do**
+
+I build full-stack products and research systems where **AI has to be correct, not just confident** — from safety-aware evaluation platforms to long-horizon RL environments for coding agents.
+
+</td>
+<td width="50%">
+
+**Highlights**
+
+- Google Scholar profile with published research
+- Hackathon-built safety evaluation platform ([SkyGuard AI](https://github.com/aakash-priyadarshi/skyguard-ai-build-week-submission))
+- Open-source work across TypeScript, Python, and Flutter
+- 50+ public repositories since 2017
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&text=Featured%20Work&fontSize=28&fontColor=fff&color=0:00d4aa,100:7c3aed&animation=twinkling" alt="featured work divider" width="100%" />
+
+## Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/aakash-priyadarshi/skyguard-ai-build-week-submission">
+  <img src="https://opengraph.githubassets.com/1/aakash-priyadarshi/skyguard-ai-build-week-submission" alt="SkyGuard AI preview" width="100%" />
+</a>
+
+### [SkyGuard AI](https://github.com/aakash-priyadarshi/skyguard-ai-build-week-submission)
+**Safety-aware training & evaluation for sequential policies & LLMs**
+
+`Python` `PyTorch` `FastAPI` `Next.js` `Offline RL`
+
+Deterministic policy gates, strict verifiers, and simulation-backed evaluation for frontier models.
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/aakash-priyadarshi/ViharaOS">
+  <img src="https://opengraph.githubassets.com/1/aakash-priyadarshi/ViharaOS" alt="ViharaOS preview" width="100%" />
+</a>
+
+### [ViharaOS](https://github.com/aakash-priyadarshi/ViharaOS)
+**Platform + desktop experience**
+
+`TypeScript` `HTML`
+
+Web platform with a dedicated desktop client — end-to-end product engineering.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/aakash-priyadarshi/frontier-long-horizon-env-trial">
+  <img src="https://opengraph.githubassets.com/1/aakash-priyadarshi/frontier-long-horizon-env-trial" alt="Frontier env preview" width="100%" />
+</a>
+
+### [Frontier Long-Horizon Env](https://github.com/aakash-priyadarshi/frontier-long-horizon-env-trial)
+**Paired-incident substrate for coding-agent verifier research**
+
+`Python`
+
+Deterministic environments for studying long-horizon agent behavior and verification.
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/aakash-priyadarshi/Jarvis">
+  <img src="https://opengraph.githubassets.com/1/aakash-priyadarshi/Jarvis" alt="Jarvis preview" width="100%" />
+</a>
+
+### [Jarvis](https://github.com/aakash-priyadarshi/Jarvis)
+**Voice-enabled OpenAI assistant**
+
+`Node.js` `OpenAI` `Speech-to-Text` `Text-to-Speech`
+
+Real-time voice ↔ text interface powered by OpenAI and Google Cloud speech APIs.
+
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakash-priyadarshi&label=Profile%20views&color=0e75b6&style=flat" alt="aakash-priyadarshi" />
-  <img src="https://img.shields.io/badge/Years%20of%20Coding-4+-0e75b6?style=flat&logo=code" alt="Years of Coding" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=flat&logo=signal" alt="Current Status" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Neural%20Networks-orange?style=flat&logo=brain" alt="Current Focus" />
-  <img src="https://img.shields.io/badge/Location-UK-ff6b6b?style=flat&logo=location" alt="Location" />
+  <a href="https://github.com/aakash-priyadarshi?tab=repositories"><b>→ See all repositories</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://aakash-priyadarshi.github.io"><b>→ Full portfolio site</b></a>
 </p>
 
+<img src="./assets/animated-wave.svg" alt="animated wave divider" width="100%" />
 
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&text=Latest%20Writing&fontSize=28&fontColor=fff&color=0:7c3aed,100:00d4aa&animation=scaleIn" alt="blog divider" width="100%" />
 
-## 💫 About Me
+## Latest writing
 
-- 🔭 I'm currently working on **Neural Network based projects**
-- 🌱 I'm currently learning **AI, DL and NN**
-- 👯 I'm looking to collaborate on **any MERN stack or NN based projects**
-- 🤝 I'm looking for help with **Neural Network**
-- 💬 Ask me about **MERN stack, AI, DL and NN.**
-- 📫 How to reach me **aakashm301@gmail.com**
+<!-- BLOG-POSTS:START -->
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUwMTA3NTIsIm5iZiI6MTc1NTAxMDQ1MiwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEyVDE0NTQxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA4ZTlhOTFiOTYxYTQzYTllOGRlODUzZTdmMDRmODk1NDg2NjEwYTNhYzhmYjhjNjBiMDljNDEyNzQ5ZWE3ZjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dsbZrdFzAlAMaO9dyU0HPYKexFVMJfidqyM36aHrtmQ" width="500"/>
-</div>
 
-## 🌐 Connect with me:
+[![Read on Dev.to](https://img.shields.io/badge/Latest%20articles%20on%20Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/aakashpriyadarshi)
 
-<div align="center">
-  
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/aakashpriyadarshi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakashpriyadarshi)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=rJUfOxgAAAAJ&hl=en) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/aakashpriyadarshi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aakash_the_wise)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aakashm301)
+<sub>✨ New posts sync here automatically every day</sub>
 
 </div>
 
-## 💻 Tech Stack:
+<!-- BLOG-POSTS:END -->
 
-<div align="">
+<img src="./assets/animated-wave.svg" alt="animated wave divider" width="100%" />
 
-### Programming Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,php,kotlin,dart&perline=6" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&text=Coding%20Activity&fontSize=28&fontColor=fff&color=0:00d4aa,100:7c3aed&animation=fadeIn" alt="wakatime divider" width="100%" />
 
-### Frontend Development
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,bootstrap&perline=6" />
-</a>
+## This week in code
 
-### Backend Development
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,php&perline=4" />
-</a>
+<!--START_SECTION:waka-->
 
-### Mobile Development
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio&perline=3" />
-</a>
+```text
+⌛  Connect WakaTime to unlock live coding stats here.
 
-### Databases & Cloud
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,gcp&perline=6" />
-</a>
+1. Create a key at https://wakatime.com/settings/api-key
+2. Add repo secrets: WAKA_TIME_API_KEY and GH_TOKEN
+3. Run the "Update WakaTime Stats" workflow
+```
 
-### AI/ML & Data Science
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4" />
-</a>
+<!--END_SECTION:waka-->
 
-### Tools & Technologies
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,figma,ps,ai,arduino&perline=8" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=aakash-priyadarshi&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8&custom_title=WakaTime%20(all%20time)" alt="WakaTime stats" width="96%" />
+
+<img src="./assets/animated-wave.svg" alt="animated wave divider" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&text=Tech%20Stack&fontSize=28&fontColor=fff&color=0:7c3aed,100:00d4aa&animation=blinking" alt="tech divider" width="100%" />
+
+## Tech I reach for
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,nodejs,fastapi,pytorch,tensorflow,docker,postgres,mongodb,aws&perline=6" alt="tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=5000&pause=500&color=00D4AA&center=true&vCenter=true&width=700&lines=TypeScript+%C2%B7+Python+%C2%B7+React%2FNext.js;PyTorch+%C2%B7+FastAPI+%C2%B7+Docker;PostgreSQL+%C2%B7+MongoDB+%C2%B7+AWS" alt="tech marquee" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/aakash-priyadarshi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://scholar.google.com/citations?user=rJUfOxgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://dev.to/aakashpriyadarshi"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+  <a href="https://kaggle.com/aakash-priyadarshi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://www.hackerrank.com/aakashm301"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="https://aakash-priyadarshi.github.io"><img src="https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&text=GitHub%20Analytics&fontSize=28&fontColor=fff&color=0:00d4aa,100:7c3aed&animation=scaleIn" alt="analytics divider" width="100%" />
+
+## GitHub activity
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aakash-priyadarshi&theme=discord&column=7&margin-w=10&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aakash-priyadarshi&theme=tokyonight&hide_border=true&border_radius=10&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" alt="streak stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=aakash-priyadarshi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="github stats" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakash-priyadarshi&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8" alt="top languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aakash-priyadarshi&repo=skyguard-ai-build-week-submission&theme=tokyonight&hide_border=true&border_radius=10" alt="pinned skyguard" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aakash-priyadarshi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&line=00d4aa&color=7c3aed&point=FFFFFF" alt="activity graph" width="96%" />
 
 </div>
 
-<div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUwMTA3NTIsIm5iZiI6MTc1NTAxMDQ1MiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEyVDE0NTQxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQzNjk5MTdhMTIyMzE0MmQ3N2M3YzcxMDZiNDIwMmY0YzNjMjRkYWNkYjJhYWY0ZWM0MjM4MDM4ZjNjZmMzYTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.e0IiuuGR0jqiptfK6HnyXZ5_YNcCXgLSuuMYgvaBVAg" width="600"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&text=3D%20Contribution%20Garden&fontSize=28&fontColor=fff&color=0:7c3aed,100:00d4aa&animation=twinkling" alt="3d contrib divider" width="100%" />
 
-## 💰 Support:
+### 3D contribution calendar
 
 <div align="center">
-  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/aakashm30)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aakashpriyadarshi)
 
-</div>
-
-<!-- 3D Contribution Calendar -->
-<h2 align="center">🔥 My Contribution Calendar</h2>
-<div align="center">
-  
 ![3D Contribution Calendar](./profile-3d-contrib/profile-green-animate.svg)
 
 </div>
 
-<div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUwMTA3NTIsIm5iZiI6MTc1NTAxMDQ1MiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEyVDE0NTQxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNiMGYxNGQ4OTNjNzI5YzNhOTk2YmUxMjFhOTM0OTdjZmUxNWI5ZTI5OGViNGU2MjE2M2ViNzJjNDdkMGM2ODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.agCx9onHIoJxWvL4a3AblYhDzDRK53m_oqBib8mn5M4" width="300"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&text=Contribution%20Snake&fontSize=28&fontColor=fff&color=0:00d4aa,100:7c3aed&animation=fadeIn" alt="snake divider" width="100%" />
 
-## 📊 GitHub Analytics:
+### Contribution snake
 
-<!-- GitHub Profile Summary Cards with Custom Layout -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="./assets/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 <div align="center">
-  
-  <!-- First card takes full width (12 columns) -->
-  <div style="width: 100%; margin-bottom: 20px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakash-priyadarshi&theme=solarized" alt="Profile Details" style="width: 100%; max-width: 900px;" />
-  </div>
-  
-  <!-- Second row: 2 cards side by side (6 columns each) -->
-  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px; flex-wrap: wrap;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aakash-priyadarshi&theme=solarized" alt="Repos per Language" style="width: 45%; min-width: 300px;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aakash-priyadarshi&theme=solarized" alt="Most Commit Language" style="width: 45%; min-width: 300px;" />
-  </div>
-  
-  <!-- Third row: 2 cards side by side (6 columns each) -->
-  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px; flex-wrap: wrap;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aakash-priyadarshi&theme=solarized" alt="GitHub Stats" style="width: 45%; min-width: 300px;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aakash-priyadarshi&theme=solarized&utcOffset=8" alt="Productive Time" style="width: 45%; min-width: 300px;" />
-  </div>
-  
-  ### ⭐ Thanks for visiting my profile! ⭐
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=fff&animation=twinkling" alt="footer" />
+
+**Let's build something ambitious together.**
+
+<br/>
+
+<a href="https://aakash-priyadarshi.github.io"><img src="https://img.shields.io/badge/Explore%20Portfolio-00d4aa?style=for-the-badge&logo=firefoxbrowser&logoColor=black" alt="Portfolio CTA" /></a>
+
 </div>
