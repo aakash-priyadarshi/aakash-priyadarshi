@@ -1,9 +1,9 @@
 <!-- Hero -->
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Aakash Priyadarshi at his Alienware workstation — Full-Stack Engineer and AI / RL researcher. Animated scene with teal and purple lighting. Motif: BUILD, VERIFY, SHIP." />
-
-<br/>
+<p align="center">
+  <img src="./assets/hero.svg" width="680" alt="Aakash Priyadarshi at his Alienware workstation — Full-Stack Engineer and AI / RL researcher. Animated scene with teal and purple lighting. Motif: BUILD, VERIFY, SHIP." />
+</p>
 
 <img src="./assets/hero-terminal.svg" width="520" alt="Animated terminal: whoami Aakash Priyadarshi; focus AI, RL, Full Stack; build, verify, ship. Agent to verifier loop. AI has to be correct, not just confident." />
 
@@ -11,7 +11,7 @@
 
 <strong>Full-Stack Engineer · AI / RL Researcher</strong>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=00D4AA&center=true&vCenter=true&width=560&lines=Building+ViharaOS;Shipping+Gold+Shop;Researching+agent+verification" alt="Currently building ViharaOS, Gold Shop, and agent verification research" />
 
