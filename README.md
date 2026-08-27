@@ -165,13 +165,15 @@ Real-time voice ↔ text interface powered by OpenAI and Google Cloud speech API
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2" alt="PyTorch, TensorFlow" />
 </p>
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/Qwen-6A11CB?style=flat-square" alt="Qwen" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
-<img src="https://img.shields.io/badge/RAG-00D4AA?style=flat-square&labelColor=1A1A2E" alt="RAG" />
-<img src="https://img.shields.io/badge/Vector%20DBs-7C3AED?style=flat-square&labelColor=1A1A2E" alt="Vector databases" />
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Qwen-6A11CB?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/RAG-00D4AA?style=for-the-badge&logo=databricks&logoColor=black" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-7C3AED?style=for-the-badge&logo=qdrant&logoColor=white" alt="Vector databases" />
+</p>
 
 ### Databases / Storage
 
@@ -179,8 +181,10 @@ Real-time voice ↔ text interface powered by OpenAI and Google Cloud speech API
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&perline=4" alt="PostgreSQL, MongoDB, Redis, Prisma" />
 </p>
 
-<img src="https://img.shields.io/badge/Qdrant-FFCC00?style=flat-square&logoColor=black" alt="Qdrant" />
-<img src="https://img.shields.io/badge/Valkey-DC382C?style=flat-square&logo=redis&logoColor=white" alt="Valkey" />
+<p>
+  <img src="https://img.shields.io/badge/Qdrant-FFCC00?style=for-the-badge&logo=qdrant&logoColor=black" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Valkey-DC382C?style=for-the-badge&logo=redis&logoColor=white" alt="Valkey" />
+</p>
 
 ### Cloud / DevOps / Infra
 
@@ -188,7 +192,9 @@ Real-time voice ↔ text interface powered by OpenAI and Google Cloud speech API
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions,vercel,cloudflare&perline=7" alt="AWS, GCP, Azure, Docker, GitHub Actions, Vercel, Cloudflare" />
 </p>
 
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
+<p>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+</p>
 
 ## This week in code
 
