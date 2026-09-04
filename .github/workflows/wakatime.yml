@@ -25,5 +25,6 @@ jobs:
           SHOW_TITLE: "true"
           SHOW_TIME: "true"
           BLOCKS: "░▒▓█"
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 8
+          TIME_RANGE: all_time
+          LANG_COUNT: 10
+          SHOW_TOTAL: "true"

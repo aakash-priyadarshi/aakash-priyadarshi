@@ -196,7 +196,7 @@ Real-time voice ↔ text interface powered by OpenAI and Google Cloud speech API
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
 </p>
 
-## This week in code
+## Coding time
 
 <!--START_SECTION:waka-->
 
@@ -216,7 +216,7 @@ Prisma        11 mins               ▒░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/wakatime?username=64ff96e5-2952-481b-ac7f-12a38a9d9da2&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8&custom_title=WakaTime%20(all%20time)" alt="WakaTime stats" width="96%" />
+  <img src="https://github-readme-stats.shion.dev/api/wakatime?username=64ff96e5-2952-481b-ac7f-12a38a9d9da2&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=10&range=all_time&custom_title=WakaTime%20(all%20time)" alt="WakaTime stats" width="96%" />
 </p>
 
 ## GitHub activity
