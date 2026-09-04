@@ -224,6 +224,24 @@ CSS           8 mins                ▒░░░░░░░░░░░░░�
 ### All time
 
 <!--START_SECTION:wakaall-->
+
+```txt
+From: 27 May 2026 - To: 03 September 2026
+
+Total Time: 98 hrs 7 mins
+
+TypeScript     49 hrs 25 mins        ████████████▒░░░░░░░░░░░░   49.24 %
+Markdown       13 hrs 3 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+Python         8 hrs 58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+JavaScript     5 hrs 19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+YAML           4 hrs 42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Text           3 hrs 53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Bash           2 hrs 27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Other          2 hrs 13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+PowerShell     2 hrs 7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+JSON           1 hr 56 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+```
+
 <!--END_SECTION:wakaall-->
 
 ## GitHub activity
