@@ -17,14 +17,28 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - name: Update README with WakaTime stats
+      - name: Update weekly WakaTime stats
         uses: athul/waka-readme@370590ad8da8f54282ed92aa42b7c25ecbd5a9a6
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY || secrets.WAKA_TIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN || github.token }}
+          SECTION_NAME: waka
           SHOW_TITLE: "true"
           SHOW_TIME: "true"
+          SHOW_TOTAL: "true"
+          BLOCKS: "░▒▓█"
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 10
+
+      - name: Update all-time WakaTime stats
+        uses: athul/waka-readme@370590ad8da8f54282ed92aa42b7c25ecbd5a9a6
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY || secrets.WAKA_TIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN || github.token }}
+          SECTION_NAME: waka-all
+          SHOW_TITLE: "true"
+          SHOW_TIME: "true"
+          SHOW_TOTAL: "true"
           BLOCKS: "░▒▓█"
           TIME_RANGE: all_time
           LANG_COUNT: 10
-          SHOW_TOTAL: "true"

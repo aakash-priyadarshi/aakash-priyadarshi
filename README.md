@@ -198,7 +198,14 @@ Real-time voice ↔ text interface powered by OpenAI and Google Cloud speech API
 
 ## Coding time
 
+### This week
+
 <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### All time
+
+<!--START_SECTION:waka-all-->
 
 ```txt
 From: 27 May 2026 - To: 03 September 2026
@@ -217,11 +224,7 @@ PowerShell     2 hrs 7 mins          ▓░░░░░░░░░░░░░�
 JSON           1 hr 56 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/wakatime?username=64ff96e5-2952-481b-ac7f-12a38a9d9da2&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=10&range=all_time&custom_title=WakaTime%20(all%20time)" alt="WakaTime stats" width="96%" />
-</p>
+<!--END_SECTION:waka-all-->
 
 ## GitHub activity
 
