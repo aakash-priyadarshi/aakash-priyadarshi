@@ -203,20 +203,20 @@ Real-time voice ↔ text interface powered by OpenAI and Google Cloud speech API
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2026 - To: 12 October 2026
+From: 06 October 2026 - To: 13 October 2026
 
-Total Time: 17 hrs 11 mins
+Total Time: 10 hrs 37 mins
 
-Kotlin       5 hrs 54 mins         ████████▓░░░░░░░░░░░░░░░░   34.27 %
-TypeScript   4 hrs 4 mins          ██████░░░░░░░░░░░░░░░░░░░   23.67 %
-Markdown     2 hrs 58 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
-YAML         2 hrs 8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
-Swift        44 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-Groovy       25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-CSS          17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-JavaScript   16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-Docker       10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-PowerShell   4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Kotlin       4 hrs 15 mins         ██████████░░░░░░░░░░░░░░░   39.89 %
+TypeScript   3 hrs 4 mins          ███████▒░░░░░░░░░░░░░░░░░   28.85 %
+YAML         1 hr 9 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+Markdown     53 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Swift        44 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+CSS          17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+JavaScript   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Groovy       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Other        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+SQL          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
